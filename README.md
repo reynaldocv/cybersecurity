@@ -7,6 +7,6 @@ Here is a simple flow chart:
 graph TD;
     A-->B;
     A-->C;
-    B-2->D;
-    C-1->D;
+    B-->D;
+    C-->D;
 ```
