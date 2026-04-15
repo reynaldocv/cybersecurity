@@ -1,4 +1,4 @@
-$$ \newcommand{\hola}[1]{\sqrt[2]{a} = #1} $$
+$$ \newcommand\hola[1]{\sqrt[2]{a} = #1} $$
 
 
 $$x \in \mathcal{N}$$
