@@ -5,17 +5,9 @@ section: "Cybersecurity?"
 permalink: "chapter-01-01/"
 ---
 
-$$ \newcommand\hola[1]{\sqrt[2]{a} = 2} $$
+$$ \newcommand{hola}[1]{\sqrt[2]{a} = 2} $$
 
-$ tail newcommand-test.tex
 
-\[
-\newcommand\mcy{{\mathcal{y}}}
-\]
-
-Will this work? \(\mcy = 3\).
-
-\end{document}
 
 $$x \in \mathcal{N}$$
 
@@ -30,6 +22,9 @@ graph TD;
 ```
 
 $$ \hola = 2 $$
+
+    [!WARNING]
+    hoLA COMO VAS
 
 
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xml:lang="en">
