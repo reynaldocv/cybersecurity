@@ -5,21 +5,45 @@ section: "Cybersecurity?"
 permalink: "chapter-01-01/"
 ---
 
-$$\newcommand{\cibersecurity}{\color{blue}{\mathbb{cybersecurity}}}$$
+$$\newcommand{\cybersecurity}{\color{blue}{\mathsf{cybersecurity}}}$$
+$$\newcommand{\Cybersecurity}{\color{blue}{\mathsf{Cybersecurity}}}$$
+$$\newcommand{\InfoSec}{\color{blue}{\mathsf{InfoSec}}}$$
 
 ### What Exactly Is Cybersecurity?
 
-#### Cybersecurity Means Different Things to Different Folks
+#### Cybersecurity Means Different Things to Different Folks: 
+
+| for **individuals**                       | $$\cybersecurity$$ means that their personal data is not accessible to anyone other than themselves and others they have authorized, and that their computing devices work properly and are free from malware. |
+| for **small business owners**             | $$\cybersecurity$$ may include ensuring that credit card data is properly protected and that standards for data security are properly implemented at point-of-sale registers.  |
+| for **firms conducting online business**  | $$\cybersecurity$$ may include protecting servers that untrusted outsiders regularly interact with.  |
+| for **shared service providers**          | $$\cybersecurity$$ may entail protecting numerous data centers that house numerous servers that, in turn, host many virtual servers belonging to many different organizations.  |
+| for **the government**                     | $$\cybersecurity$$ may include establishing different classifications of data, each with its own set of related laws, policies, procedures, and technologies.             |
+
+We notice that $$\cybersecurity$$ is related completely with the information security. 
+
+### What Exactly Is Information Security?
+
+Information security, often shortened to $$\InfoSec$$, is the practice of protecting information and the systems that handle it. It is designed to prevent unauthorized access, use, disclosure, disruption, modification, or destruction of data.At its core, $$\InfoSec$$ is not just about technology; it is about managing risk. It applies to information in any form, whether it is digital code, physical documents, or intellectual property.
+
+The foundation of information security is built upon three core principles known as the CIA Triad.
+
+The CIA Triad
+The goal of any security program is to balance these three elements:
+
+ - **Confidentiality:** Ensuring that information is accessible only to those authorized to have access. 
+
+ - **Integrity:** Maintaining the consistency, accuracy, and trustworthiness of data over its entire life cycle. This ensures that data cannot be modified by unauthorized people or via accidental corruption.
+
+ - **Availability:** Ensuring that information and resources are available to users when they need them.        
+
+Where, 
+    
+   | $$\InfoSec$$ encompasses the security of all forms of data. |    
+   | $$\Cybersecurity$$ is the subset of $$\InfoSec$$ that addresses information and information systems that store and process data in electronic form. |
 
 
 
-| **individuals**                       | $$\cibersecurity$$ means that their personal data is not accessible to anyone other than themselves and others they have authorized, and that their computing devices work properly and are free from malware. |
-| **small business owners**             | $$\cibersecurity$$ may include ensuring that credit card data is properly protected and that standards for data security are properly implemented at point-of-sale registers.  |
-| **firms conducting online business**  | $$\cibersecurity$$ may include protecting servers that untrusted outsiders regularly interact with.  |
-| **shared service providers**          | $$\cibersecurity$$ may entail protecting numerous data centers that house numerous servers that, in turn, host many virtual servers belonging to many different organizations.  |
-| **the government**                     | $$\cibersecurity$$ may include establishing different classifications of data, each with its own set of related laws, policies, procedures, and technologies.             |
 
-|| |
 - , </li>
 <li id="c01-li-0007">For <b></b> <em></li>
 <li id="c01-li-0008">For <b>,</b> <em></li>
